@@ -1,0 +1,70 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3714232, 2019-02-01T20:48:01-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Minimo-Bold by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/minimo/bold/
+ * 
+ * Webfont: Minimo-LightOblique by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/minimo/light-oblique/
+ * 
+ * Webfont: Minimo-MediumOblique by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/minimo/medium-oblique/
+ * 
+ * Webfont: Minimo-Medium by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/minimo/medium/
+ * 
+ * Webfont: Minimo-Light by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/minimo/light/
+ * 
+ * Webfont: Minimo-BoldOblique by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/minimo/bold-oblique/
+ * 
+ * Webfont: Minimo-Regular by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/minimo/regular/
+ * 
+ * Webfont: Minimo-RegularOblique by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/minimo/oblique/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3714232
+ * Licensed pageviews: 500,000
+ * Webfonts copyright: Copyright (c) 2015 by Ahmet Altun. All rights reserved.
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/38acb8");
+
+  
+@font-face {font-family: 'Minimo-Bold';src: url('webfonts/38ACB8_0_0.eot');src: url('webfonts/38ACB8_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/38ACB8_0_0.woff2') format('woff2'),url('webfonts/38ACB8_0_0.woff') format('woff'),url('webfonts/38ACB8_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Minimo-LightOblique';src: url('webfonts/38ACB8_1_0.eot');src: url('webfonts/38ACB8_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/38ACB8_1_0.woff2') format('woff2'),url('webfonts/38ACB8_1_0.woff') format('woff'),url('webfonts/38ACB8_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Minimo-MediumOblique';src: url('webfonts/38ACB8_2_0.eot');src: url('webfonts/38ACB8_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/38ACB8_2_0.woff2') format('woff2'),url('webfonts/38ACB8_2_0.woff') format('woff'),url('webfonts/38ACB8_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Minimo-Medium';src: url('webfonts/38ACB8_3_0.eot');src: url('webfonts/38ACB8_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/38ACB8_3_0.woff2') format('woff2'),url('webfonts/38ACB8_3_0.woff') format('woff'),url('webfonts/38ACB8_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Minimo-Light';src: url('webfonts/38ACB8_4_0.eot');src: url('webfonts/38ACB8_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/38ACB8_4_0.woff2') format('woff2'),url('webfonts/38ACB8_4_0.woff') format('woff'),url('webfonts/38ACB8_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Minimo-BoldOblique';src: url('webfonts/38ACB8_5_0.eot');src: url('webfonts/38ACB8_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/38ACB8_5_0.woff2') format('woff2'),url('webfonts/38ACB8_5_0.woff') format('woff'),url('webfonts/38ACB8_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Minimo-Regular';src: url('webfonts/38ACB8_6_0.eot');src: url('webfonts/38ACB8_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/38ACB8_6_0.woff2') format('woff2'),url('webfonts/38ACB8_6_0.woff') format('woff'),url('webfonts/38ACB8_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Minimo-RegularOblique';src: url('webfonts/38ACB8_7_0.eot');src: url('webfonts/38ACB8_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/38ACB8_7_0.woff2') format('woff2'),url('webfonts/38ACB8_7_0.woff') format('woff'),url('webfonts/38ACB8_7_0.ttf') format('truetype');}
+ 

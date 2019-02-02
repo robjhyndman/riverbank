@@ -1,0 +1,19 @@
+{{ "<!-- About Section -->" | safeHTML }}
+<section class="details" id="details">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>{{ with .Site.Params.details.title }}{{.}}{{ end }}</h2>
+                <hr class="star-light">
+            </div>
+        </div>
+    <div class="row">
+        <div class="col-lg-4 col-lg-offset-2">
+            <p>{{ with .Site.Params.details.left }}{{ . | markdownify }}{{ end }}</p>
+        </div>
+            <div class="col-lg-4">
+                <p>{{ with .Site.Params.details.right }}{{ . | markdownify }}{{ end }}</p>
+            </div>
+        </div>
+    </div>
+</section>

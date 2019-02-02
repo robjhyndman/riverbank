@@ -1,0 +1,33 @@
+{{ "<!-- Portfolio Grid Section -->" | safeHTML }}
+<section id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>{{ with .Site.Params.portfolio.title }}{{.}}{{end}}</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            {{ range $.Site.Data.projects }}
+        <div class="col-lg-4 col-lg-offset-2">
+                    <a href="{{ .url }}">
+                    <img src="img/{{ .img }}" class="img-responsive" width="100%">
+                </a>
+            </div>
+            <div class="col-lg-4">
+                  <h3>{{ .title | markdownify }}</h3>
+                  <h4>By {{ .authors | markdownify }}</h4>
+                <h5><i>{{ .date | markdownify }}</i></h5><p>
+                {{ .description | markdownify }}</p>
+                <a href="{{ .url }}">
+                    <button type="submit" class="btn btn-success btn-lg">Read online</button>
+                </a>
+                <a href="{{ .amazon }}">
+                    <button type="submit" class="btn btn-success btn-lg">Buy</button>
+                </a>
+            </div>
+
+            {{ end }}
+        </div>
+    </div>
+</section>
