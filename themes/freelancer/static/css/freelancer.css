@@ -158,7 +158,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Minimo-Regular;
     font-weight: 700;
-    background-color: #121e11
+    background-color: #0d270d
 }
 
 .navbar a:focus {
@@ -366,7 +366,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #121e11;
+    background-color: #0d270d;
 }
 
 footer .footer-col {
@@ -375,7 +375,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #0d270d;
 }
 
 .btn-social {
@@ -459,7 +459,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #121e11;
+    background-color: #0d270d;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -469,7 +469,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #121e11;
+    background-color: #0d270d;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
