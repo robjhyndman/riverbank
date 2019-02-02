@@ -1,4 +1,4 @@
-### Build and deploy https://robjhyndman.com
+### Build and deploy https://riverbankcounselling.com
 
 all: serve
 
@@ -9,6 +9,7 @@ build:
 	Rscript -e "blogdown::hugo_build()"
 
 deploy: build
+	cp .htaccess public
 	rsync -zrvce 'ssh -p 18765' public/ robjhynd@m80.siteground.biz:public_html/riverbankcounselling.com
 
 clean:

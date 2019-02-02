@@ -1,8 +1,0 @@
-modalID: 1
-title: "Forecasting: Princiddples and Practice"
-authors: "Rob J Hyndman and George Athanasopoulos"
-img: fpp2_cover.jpg
-url: fpp2
-date: 2nd edition, May 2018
-amazon: fpp2/buy-a-print-or-downloadable-version.html
-description: A comprehensive introduction to the latest forecasting methods. Examples use R with many data sets taken from the authors' own consulting experience. In this second edition, all chapters have been updated to cover the latest research, and three new chapters have been added on dynamic regression forecasting, hierarchical forecasting and practical forecasting issues.
