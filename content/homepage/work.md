@@ -2,7 +2,7 @@
 title: 'What we do'
 weight: 1
 tag: what
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'img/Leanne-Hyndman.jpg'
 button: 'Therapies'
 buttonLink: 'therapy'
 ---
@@ -13,4 +13,4 @@ We aim to work with children in a way that helps them to find their own skills t
 
 Our principal consultant is **Leanne Hyndman**, who has a Bachelor of Arts in Counselling from Tabor College and a Masters of Narrative Therapy & Community Work from the University of Melbourne.
 
-Leanne is particularly trained in [Narrative Therapy and Sandplay](/therapy), both well-suited to children."
+Leanne is particularly trained in Narrative Therapy and Sandplay, both well-suited to children."
