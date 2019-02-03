@@ -1,0 +1,57 @@
+.hero-image {
+  background-blend-mode: normal;
+}
+.logo img {
+  width: 30%;
+}
+
+.main-menu>ul>li>a {
+  color: #0091c8;
+}
+.main-menu>ul>li>a:hover {
+  background: #0091c8;
+}
+.main-menu>ul>li.active>a {
+  background: #0091c8;
+}
+
+a{
+  color: #0091c8;
+}
+:root {
+  --primary: #0091c8;
+  --font-family-san-serif: "Minimo-Medium";
+}
+
+.text-primary {
+  color: #0091c8!important;
+}
+.text-center {
+  text-align: left!important;
+}
+
+.button:hover {
+  background-color: #0091c8;
+}
+.button {
+  background-color: #0091c8;
+}
+
+body {
+  font-family: "Minimo-Light";
+}
+
+.content p {
+  font-family: "Minimo-Light";
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Minimo-Bold;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.intro h1 {
+  color: #0091c8;
+  font-family: Minimo-Bold;
+}
