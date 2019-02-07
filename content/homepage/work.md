@@ -2,7 +2,7 @@
 title: 'What we do'
 weight: 1
 tag: what
-background: 'img/Leanne-Hyndman.jpg'
+background: ''
 button: 'Therapies'
 buttonLink: 'therapy'
 ---

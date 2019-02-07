@@ -20,9 +20,10 @@
 {{ $reusablePages := $headless.Resources.ByType "page" }}
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}
 {{ range first 1 $reusablePages }}
-<div id="home" class="strip bg-position-left" style="background-image: url(' {{ .Params.background | relURL }}'); background-image-width: 50%; background-color: #b9d0cc;">
+<div id="home" class="strip bg-cover bg-position-left bg-overlay" style="background-image: url(' {{ .Params.background | relURL }}'); background-size: 50% 70%; background-blend-mode: normal; background-color: #b9d0cc;">
   <div class="container pt-17 pb-17">
-    <div class="row">
+    <img src="img/Leanne-Hyndman.jpg" align='left' width=40% style="padding-right: 10px;">
+    <div class="row" style="display: inline;">
       <div class="col-12 col-md-6 offset-md-6">
         <a name= {{.Params.tag}}><h2>{{ .Title }}</h2></a>
         <p>{{ .Content }}</p>
