@@ -20,11 +20,6 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Services"
-    url = "/services/"
-    weight = 2
-
-[[menu.main]]
     name = "Therapies"
     url = "/therapy/"
     weight = 3

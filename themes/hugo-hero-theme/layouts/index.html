@@ -35,7 +35,7 @@
 {{ end }}
 
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
-{{if gt (len $services) 0}}
+{{if gt (len $services) 999}} # Change 999 to 0 for this to reappear.
 <div class="container pt-8 pb-8 pb-md-14 pt-md-14">
   <div class="row justify-content-start">
     <div class="col-12">
