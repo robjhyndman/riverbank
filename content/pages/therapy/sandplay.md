@@ -6,6 +6,7 @@ button: ''
 ---
 
 ## Sandplay Therapy
+<img src="/img/sandplay2.jpg" align='center' width="100%" style="padding-top: 50px;">
 
 As an observer of **Sandplay Therapy**, it may appear that your child is simply playing in sand.  This is not so.  The sandtray becomes a setting for people to gain a different or new perspective on a situation.
 
