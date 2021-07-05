@@ -51,12 +51,11 @@ a {
 .tagline {
   margin-bottom: 40px;
   color: #ddd;
-  font-size: 58px;
+  font-size: 42px;
   line-height: 100%;
 }
 
 .bio {
-  margin-bottom: 40px;
   font-family: sans-serif;
   color: #a9b2ba;
   line-height: 140%;
