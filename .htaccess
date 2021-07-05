@@ -1,10 +1,2 @@
-Options -Indexes +FollowSymLinks
-RewriteEngine On
-
-# redirect "www" domain to https://riverbankcounselling.com
-RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
-RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
-
-# redirect http to https (at this point, domain is without "www")
-RewriteCond %{HTTPS} =off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.riverbankcounselling\.com$ [NC]
+RewriteRule  ^(.*)$ https://riverbankcounselling.com/$1 [R=301,L]
